@@ -51,14 +51,14 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A humorous examination of human hypocrisy and war’s stupidity in the midst of the Serbo-Bulgarian war.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In the middle of the 1885 Serbo-Bulgarian war, an enemy soldier escapes a cavalry charge by climbing up a drainpipe into Raina Petkoff’s room. Raina is the daughter of one Major and engaged to another, but she chooses to save the soldier’s life and conceal him.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Arms and the Man&lt;/i&gt;, named after the opening lines of &lt;a href="https://standardebooks.org/ebooks/virgil"&gt;Virgil’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/virgil/the-aeneid/john-dryden"&gt;The Aeneid&lt;/a&gt;&lt;/i&gt; (“Arms, and the man I sing”), is a play that humorously deals with the hypocrisy of humanity and the stupidity of war. It was among &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw’s&lt;/a&gt; first commercial successes, and was included in a collection of plays he referred to as &lt;i&gt;Plays Pleasant&lt;/i&gt;, along with &lt;i&gt;Candida&lt;/i&gt;, &lt;i&gt;You Never Can Tell&lt;/i&gt;, and &lt;i&gt;The Man of Destiny&lt;/i&gt;. Having coined the term “chocolate soldier,” the play has been staged multiple times in London’s West End and on Broadway, and has been adapted into operetta and film.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3618</dc:source>
 		<dc:source>https://archive.org/details/armsandmanaplea01shawgoog/</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Arms_and_the_Man</meta>
@@ -68,10 +68,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_Bernard_Shaw</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79006533</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Alphonse-Marie-Adolphe de Neuville</dc:contributor>
+		<meta property="file-as" refines="#artist">de Neuville, Alphonse-Marie-Adolphe</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alphonse_de_Neuville</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/nr91017095</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jim Tinsley</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Tinsley, Jim</meta>
