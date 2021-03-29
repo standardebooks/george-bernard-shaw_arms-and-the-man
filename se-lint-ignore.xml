@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="introduction.xhtml">
+		<ignore>
+			<code>m-030</code>
+			<reason>The author of the introduction is unknown.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
