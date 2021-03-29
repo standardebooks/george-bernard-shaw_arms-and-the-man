@@ -2,15 +2,15 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-03-29T00:54:23Z</dc:date>
+		<meta property="dcterms:modified">2021-03-29T00:54:23Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
-		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
-		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
-		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
 		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
@@ -50,28 +50,29 @@
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
+		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">A humorous examination of human hypocrisy and war’s stupidity in the midst of the Serbo-Bulgarian war.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In the middle of the 1885 Serbo-Bulgarian war, an enemy soldier escapes a cavalry charge by climbing up a drainpipe into Raina Petkoff’s room. Raina is the daughter of one Major and engaged to another, but she chooses to save the soldier’s life and conceal him.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Arms and the Man&lt;/i&gt;, named after the opening lines of &lt;a href="https://standardebooks.org/ebooks/virgil"&gt;Virgil’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/virgil/the-aeneid/john-dryden"&gt;The Aeneid&lt;/a&gt;&lt;/i&gt; (“Arms, and the man I sing”), is a play that humorously deals with the hypocrisy of humanity and the stupidity of war. It was among &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw’s&lt;/a&gt; first commercial successes, and was included in a collection of plays he referred to as &lt;i&gt;Plays Pleasant&lt;/i&gt;, along with &lt;i&gt;Candida&lt;/i&gt;, &lt;i&gt;You Never Can Tell&lt;/i&gt;, and &lt;i&gt;The Man of Destiny&lt;/i&gt;. Having coined the term “chocolate soldier,” the play has been staged multiple times in London’s West End and on Broadway, and has been adapted into operetta and film.&lt;/p&gt;
+			&lt;p&gt;In the middle of the 1885 Serbo-Bulgarian war, an enemy soldier escapes a cavalry charge by climbing up a drainpipe into Raina Petkoff’s room. Raina is the daughter of one Major and engaged to another, but she chooses to save the soldier’s life by concealing him.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Arms and the Man&lt;/i&gt;, named after the opening lines of &lt;a href="https://standardebooks.org/ebooks/virgil"&gt;Virgil’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/virgil/the-aeneid/john-dryden"&gt;The Aeneid&lt;/a&gt;&lt;/i&gt;, is a play that humorously deals with the hypocrisy of humanity and the stupidity of war. It was among &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw’s&lt;/a&gt; first commercial successes, and was included in a collection of plays he referred to as &lt;i&gt;Plays Pleasant&lt;/i&gt;, along with &lt;i&gt;Candida&lt;/i&gt;, &lt;i&gt;You Never Can Tell&lt;/i&gt;, and &lt;i&gt;The Man of Destiny&lt;/i&gt;. Having coined the term “chocolate soldier,” the play has been staged multiple times in London’s West End and on Broadway, and has been adapted into operetta and film.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3618</dc:source>
 		<dc:source>https://archive.org/details/armsandmanaplea01shawgoog/</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">25245</meta>
+		<meta property="se:reading-ease.flesch">77.23</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Arms_and_the_Man</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_arms-and-the-man</meta>
 		<dc:creator id="author">George Bernard Shaw</dc:creator>
 		<meta property="file-as" refines="#author">Shaw, George Bernard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_Bernard_Shaw</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79006533</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79006533</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Alphonse-Marie-Adolphe de Neuville</dc:contributor>
 		<meta property="file-as" refines="#artist">de Neuville, Alphonse-Marie-Adolphe</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alphonse_de_Neuville</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/nr91017095</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr91017095</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jim Tinsley</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Tinsley, Jim</meta>
@@ -79,11 +80,15 @@
 		<dc:contributor id="producer-1">Asher Smith</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Smith, Asher</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
-		<meta property="se.role" refines="#producer-1" scheme="marc:relators">blw</meta>
-		<meta property="se.role" refines="#producer-1" scheme="marc:relators">cov</meta>
-		<meta property="se.role" refines="#producer-1" scheme="marc:relators">mrk</meta>
-		<meta property="se.role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-		<meta property="se.role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
