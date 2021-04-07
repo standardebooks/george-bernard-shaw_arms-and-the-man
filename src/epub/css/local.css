@@ -92,8 +92,8 @@ abbr[epub|type~="z3998:stage-direction"]::after{
 }
 
 [epub|type~="z3998:dramatis-personae"] ul li{
-	margin: 1em;
 	font-style: italic;
+	margin: 1em;
 }
 /* End Dramatis Personae */
 
