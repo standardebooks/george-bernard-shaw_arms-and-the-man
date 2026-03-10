@@ -69,6 +69,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_Bernard_Shaw</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79006533</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="writer-of-introduction">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#writer-of-introduction">Anonymous</meta>
+		<meta property="role" refines="#writer-of-introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Alphonse-Marie-Adolphe de Neuville</dc:contributor>
 		<meta property="file-as" refines="#artist">de Neuville, Alphonse-Marie-Adolphe</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alphonse_de_Neuville</meta>
